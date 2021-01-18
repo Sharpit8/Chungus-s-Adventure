@@ -1,0 +1,1 @@
+audio_sound_pitch(voicesound,1)

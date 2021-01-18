@@ -1,0 +1,1 @@
+attackway="normal"
